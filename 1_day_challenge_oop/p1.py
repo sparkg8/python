@@ -14,3 +14,4 @@ class Book:
 book1 = Book("The power of words", "Mariano Sigman", 2022)
 
 print(book1.display_details())
+print()
