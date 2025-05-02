@@ -10,5 +10,6 @@ for number in numbers:
         temp = number
     else:
         continue
+print(type(usr_list))
 print("The greatest number is: ", temp)
 
