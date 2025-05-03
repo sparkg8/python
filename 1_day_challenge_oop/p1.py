@@ -1,5 +1,5 @@
 # Create a Book class that includes attributes like title, author, and year. Add a method to display the details.
-# Create a Lybrary class that contains a collection of books
+# Create a Library class that contains a collection of books
 # and add some methods, remove_book, add_book, and display_books.
 # Create a Book class
 class Book:
@@ -14,4 +14,4 @@ class Book:
 book1 = Book("The power of words", "Mariano Sigman", 2022)
 
 print(book1.display_details())
-print()
+print("First book created")
